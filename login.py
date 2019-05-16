@@ -13,3 +13,6 @@ def rap():
 
 def basketball():
     print("caixukun is palying basketball")
+
+
+cxk = "nc"
