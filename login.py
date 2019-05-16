@@ -5,3 +5,7 @@ def like():
 
 def dance():
     print("caixukun is dancing")
+
+
+def rap():
+    print("caixukun is rapping")
