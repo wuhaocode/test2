@@ -9,3 +9,7 @@ def dance():
 
 def rap():
     print("caixukun is rapping")
+
+
+def basketball():
+    print("caixukun is palying basketball")
